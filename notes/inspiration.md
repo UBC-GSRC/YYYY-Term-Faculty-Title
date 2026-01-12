@@ -1,4 +1,4 @@
-﻿#Inspiration Procedure: 
+﻿# Inspiration Procedure: 
 
 The Inspiration page is to house any materials that provide a good example of relevant implementations. This can be hyperlinks to articles, photos, etc. Almost like a Pinterest board.  
 
